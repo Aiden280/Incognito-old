@@ -1,0 +1,5 @@
+{
+    "thumbnail": "thumbnail.jpg", 
+    "location": "./gamelocation/",
+    "title": "Game title"
+}
